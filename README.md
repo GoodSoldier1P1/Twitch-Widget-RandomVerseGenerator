@@ -33,7 +33,7 @@ A future update will re‑enable this panel with options such as:
 - Adjusting update intervals
 - Setting maximum verse length
 - Enabling/disabling auto‑update
-- 
+  
 These features are actively being worked on and will be restored once stable.
 
 
