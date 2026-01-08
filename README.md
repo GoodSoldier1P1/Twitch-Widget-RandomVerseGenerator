@@ -1,4 +1,5 @@
 📖 Bible Verse Widget
+
 A customizable Bible verse widget for StreamElements overlays.
 Easily display rotating Scripture verses on your livestream with automatic updates and flexible configuration.
 
