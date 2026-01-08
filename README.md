@@ -15,7 +15,7 @@ Easily display rotating Scripture verses on your livestream with automatic updat
 2. Install the Widget Code
 - In the popup, click “Open Editor”
 - Delete everything currently in the editor
-- Copy the entire code from the provided artifact
+- Copy the entire code provided in index.html (above)
 - Paste it into the StreamElements editor
 - Click Save
 
